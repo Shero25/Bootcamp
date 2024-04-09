@@ -1,0 +1,6 @@
+// for ignoring directories and its subdirectories we use forward slash
+node_modules/** 
+
+/node_modules/**
+//for files we use file name
+.DS_Store 
